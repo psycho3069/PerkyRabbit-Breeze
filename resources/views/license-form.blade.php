@@ -16,6 +16,8 @@
                             <h4 id="msg"></h4>
                             
                         </div>
+                        {{-- {{ date('d-m-Y') }} --}}
+                        {{-- {{ Carbon\Carbon::now() }} --}}
                         <div class="card-header">Activate Your License</div>
                         <div class="card-body">
 
